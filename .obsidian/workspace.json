@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "3ed8dc9f66fe1a6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "17ff24bbee925033",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1aa4b124228f88f9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76b0570cdd94a50e",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf1a1f99991ebd87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51dbc66ff7d5b109",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6c85aa7c35d3fbca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a6260b47175b93c5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 553.5
+  },
+  "right": {
+    "id": "01b9bd654bd95b24",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cb6944c9fd1fdfb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e0b7d58f0aeb38f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0ac47d69c833d1b7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "83b4e159eb7b1f5a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "03fed885b136924b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "c70f78047dc5620a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c70f78047dc5620a",
+  "lastOpenFiles": [
+    "Diego/TIE/Estrategias y ventajas competitivas.md",
+    "Diego/TIE/TIE.md",
+    "Diego/Arq. Software/Problema 11-02-2025.md",
+    "Diego/Arq. Software/Vistas de Componente y Conector (CyC).md",
+    "Diego/Arq. Software/Conectores.md",
+    "Diego/Arq. Software/Vista de módulos.md",
+    "Diego/TIE/Caso3 (Parque de Atracciones).md",
+    "Diego/TIE/Imagenes/TIE Caso2 (Análisis Objetivos Equipo deportivo) Fig1.png",
+    "Diego/SisInf 2/Importancia de los Sistemas de Información en las Organizaciones.md",
+    "Diego/SisInf 2/Un ejemplo real de sistema de información (introducción a Oodoo).md",
+    "Diego/TIE/Caso2 (Análisis Objetivos Equipo deportivo).md",
+    "Diego/TIE/Caso1 (Análisis Ticket).md",
+    "Diego/TIE/La transformación de los mercados y el valor de la información.md",
+    "Diego/TIE/Introducción al Business Intelligence y la revolución digital.md",
+    "Diego/Arq. Software/Arq. Software.md",
+    "Diego/SisInf 2/SisInf 2.md",
+    "Diego/Arq. Software/Imagenes/Arq. Software Conectores Fig9.png",
+    "Diego/Arq. Software/Imagenes/Arq. Software Conectores Fig8.png",
+    "Diego/Arq. Software/Imagenes/Arq. Software Conectores Fig7.png",
+    "Diego/Arq. Software/Imagenes/Arq. Software Conectores Fig5.png",
+    "Diego/Arq. Software/Imagenes/Arq. Software Conectores Fig2.png",
+    "Diego/Arq. Software/Imagenes/Arq. Software Conectores Fig1.png",
+    "Diego/Arq. Software/Imagenes/Arq. Software Vistas de Componente y Conector (CyC) Fig9.png",
+    "Diego/Arq. Software/Imagenes/Arq. Software Vistas de Componente y Conector (CyC) Fig8.png",
+    "Diego/Arq. Software/Imagenes/Arq. Software Vistas de Componente y Conector (CyC) Fig5.png",
+    "Diego/Arq. Software/Vista de módulos  (Estilos).md",
+    "Diego/Arq. Software/Arq. Software 28-01-2025.md",
+    "Diego/Proyecto Software/Chuleta resumen Git.md",
+    "Diego/Proyecto Software",
+    "Diego/Arq. Software/Imagenes",
+    "Diego/TIE/Imagenes",
+    "Untitled.canvas",
+    "2025-01-30.md",
+    "Diego/TIE/Untitled.canvas",
+    "Diego/BD 2",
+    "Diego/Arq. Software",
+    "Diego/SisInf 2",
+    "Diego/TIE",
+    "Untitled",
+    "Diego",
+    "Untitled.md"
+  ]
+}
