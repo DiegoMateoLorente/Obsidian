@@ -5,4 +5,4 @@ Teoría:
 [[Conectores]]
 
 Test:
-Test 1: 13/16 (75%) 7 - 7.5
+Test 1: 13/16 (75%) 7 - 7.5 / 10
