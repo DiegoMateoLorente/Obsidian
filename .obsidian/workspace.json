@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "17ff24bbee925033",
+        "id": "cef1e62bd5350f70",
         "type": "tabs",
         "children": [
           {
-            "id": "1aa4b124228f88f9",
+            "id": "1bf061174796f9eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Diego/Arq. Software/Arq. Software.md",
-                "mode": "source",
-                "source": false
+                "file": "Diego/TIE/Caso4 (Mapa Procesos ElPozo).png"
               },
-              "icon": "lucide-file",
-              "title": "Arq. Software"
+              "icon": "lucide-image",
+              "title": "Caso4 (Mapa Procesos ElPozo)"
             }
           }
         ]
@@ -178,8 +176,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1aa4b124228f88f9",
+  "active": "1bf061174796f9eb",
   "lastOpenFiles": [
+    "Diego/TIE/Caso4 (Mapa Procesos ElPozo.drawio.png",
+    "Diego/TIE/Caso4 (Mapa Procesos ElPozo).png",
+    "Diego/Arq. Software/Arq. Software.md",
     "Diego/TIE/Estrategias y ventajas competitivas.md",
     "Diego/TIE/TIE.md",
     "Diego/Arq. Software/Problema 11-02-2025.md",
@@ -194,7 +195,6 @@
     "Diego/TIE/Caso1 (Análisis Ticket).md",
     "Diego/TIE/La transformación de los mercados y el valor de la información.md",
     "Diego/TIE/Introducción al Business Intelligence y la revolución digital.md",
-    "Diego/Arq. Software/Arq. Software.md",
     "Diego/SisInf 2/SisInf 2.md",
     "Diego/Arq. Software/Imagenes/Arq. Software Conectores Fig9.png",
     "Diego/Arq. Software/Imagenes/Arq. Software Conectores Fig8.png",
@@ -204,7 +204,6 @@
     "Diego/Arq. Software/Imagenes/Arq. Software Conectores Fig1.png",
     "Diego/Arq. Software/Imagenes/Arq. Software Vistas de Componente y Conector (CyC) Fig9.png",
     "Diego/Arq. Software/Imagenes/Arq. Software Vistas de Componente y Conector (CyC) Fig8.png",
-    "Diego/Arq. Software/Imagenes/Arq. Software Vistas de Componente y Conector (CyC) Fig5.png",
     "Diego/Arq. Software/Vista de módulos  (Estilos).md",
     "Diego/Arq. Software/Arq. Software 28-01-2025.md",
     "Diego/Proyecto Software/Chuleta resumen Git.md",
