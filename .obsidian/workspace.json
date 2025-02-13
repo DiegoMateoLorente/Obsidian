@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cef1e62bd5350f70",
+        "id": "e1c4175ad95da0a9",
         "type": "tabs",
         "children": [
           {
-            "id": "1bf061174796f9eb",
+            "id": "59e956e86c1ba87d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Diego/TIE/Caso4 (Mapa Procesos ElPozo).png"
+                "file": "Diego/TIE/TIE.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Caso4 (Mapa Procesos ElPozo)"
+              "icon": "lucide-file",
+              "title": "TIE"
             }
           }
         ]
@@ -176,14 +178,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1bf061174796f9eb",
+  "active": "59e956e86c1ba87d",
   "lastOpenFiles": [
-    "Diego/TIE/Caso4 (Mapa Procesos ElPozo.drawio.png",
     "Diego/TIE/Caso4 (Mapa Procesos ElPozo).png",
-    "Diego/Arq. Software/Arq. Software.md",
-    "Diego/TIE/Estrategias y ventajas competitivas.md",
     "Diego/TIE/TIE.md",
+    "Diego/TIE/Estrategias y ventajas competitivas.md",
+    "Diego/SisInf 2/SisInf 2.md",
+    "Diego/Arq. Software/Arq. Software.md",
     "Diego/Arq. Software/Problema 11-02-2025.md",
+    "Diego/TIE/Caso4 (Mapa Procesos ElPozo.drawio.png",
     "Diego/Arq. Software/Vistas de Componente y Conector (CyC).md",
     "Diego/Arq. Software/Conectores.md",
     "Diego/Arq. Software/Vista de módulos.md",
@@ -195,7 +198,6 @@
     "Diego/TIE/Caso1 (Análisis Ticket).md",
     "Diego/TIE/La transformación de los mercados y el valor de la información.md",
     "Diego/TIE/Introducción al Business Intelligence y la revolución digital.md",
-    "Diego/SisInf 2/SisInf 2.md",
     "Diego/Arq. Software/Imagenes/Arq. Software Conectores Fig9.png",
     "Diego/Arq. Software/Imagenes/Arq. Software Conectores Fig8.png",
     "Diego/Arq. Software/Imagenes/Arq. Software Conectores Fig7.png",
@@ -203,7 +205,6 @@
     "Diego/Arq. Software/Imagenes/Arq. Software Conectores Fig2.png",
     "Diego/Arq. Software/Imagenes/Arq. Software Conectores Fig1.png",
     "Diego/Arq. Software/Imagenes/Arq. Software Vistas de Componente y Conector (CyC) Fig9.png",
-    "Diego/Arq. Software/Imagenes/Arq. Software Vistas de Componente y Conector (CyC) Fig8.png",
     "Diego/Arq. Software/Vista de módulos  (Estilos).md",
     "Diego/Arq. Software/Arq. Software 28-01-2025.md",
     "Diego/Proyecto Software/Chuleta resumen Git.md",
