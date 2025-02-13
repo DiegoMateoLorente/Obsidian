@@ -4,5 +4,5 @@ Teoría:
 [[Vistas de Componente y Conector (CyC)]]
 [[Conectores]]
 
-Test:
+Tests:
 Test 1: 13/16 (75%) 7 - 7.5 / 10.0
