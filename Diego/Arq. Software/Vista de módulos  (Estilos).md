@@ -8,7 +8,7 @@ Es un buen punto para comenzar a diseñar una arquitectura, se basa en divide y 
 
 DOCUMENTAR EL CRITERIO UTILIZADO PARA DESCOMPONER ES ESENCIAL.
 
-Heurística: 
+Heurística: Un módulo es suficientemente pequeño si puede ser desechado e implementarlo de nuevo en caso de que el programador(es) abandone(n) el proyecto.
 
 Para que sirve el estilo de descomposición:
 Es uno de los primeros documentos que se da a una nueva incorporación a un proyecto,  debe servir para:
@@ -17,9 +17,10 @@ Es uno de los primeros documentos que se da a una nueva incorporación a un proy
 - Localizar cambios y distribuir trabajo
 
 ##### Restricciones:
-Un módulo puede pertenecer como máximo a un agregado, y no puede haber bucles
+- Un módulo puede pertenecer como máximo a un agregado, y no puede haber bucles
+- La notación puede ser informal o con UML.
 
-Relación con otras vistas se basa en componentes y conectores, #rellenar
+Relación con otras vistas se basa en componentes y conectores. Debemos conocer la transformación entre la vista de descomposición y al menos una de C&C. La transformación es muchos a muchos. Está completamente relacionado con el estilo de asignación de trabajo de la vista de distribución
 
 ### Estilos de uso
 
@@ -30,7 +31,7 @@ No existen restricciones, pero la existencia de bucles, cadenas largas de depend
 Sirve para planificar el desarrollo por incremento gradual, pruebas, y estimar los efectos de los cambios.
 
 ### Arquitectura por capas:
-Visto en ingeniería del software, técnica que sirve para obtener módulos por acoplamiento. Agrupamos en una capa módulos que proporcionan un conjunto de servicios relacionados. Dividen completamente el software, ejemplo: capas OSI.
+Visto en ingeniería del software, técnica que sirve para obtener módulos con poco acoplamiento. Agrupamos en una capa módulos que proporcionan un conjunto de servicios relacionados. Dividen completamente el software, ejemplo: capas OSI.
 
 Define interfaces para los servicios públicos y oculta información. Las capas de arriba pueden emplear las inferiores, pero las de abajo NO pueden emplear las de arriba.
 
@@ -60,6 +61,7 @@ La idea de las capas es crear y comunicar la arquitectura, manejar la complejida
 También hay que documentar las propiedades de las capas, describir para que sirve, la lista de módulos y cómo se implementa, y sobre todo JUSTIFICAR POR QUÉ, es muy importante justificarlo todo.
 
 UML no proporciona un constructor explícito por capas, se representa como paquete estereotipado con \<\<layer>>
+También puede hacerse con notación informal
 
 ##### Relación con otros estilos
 Con la vista de descomposición ,establecer correspondencia entre módulos de vistas (capas y descomposición)
