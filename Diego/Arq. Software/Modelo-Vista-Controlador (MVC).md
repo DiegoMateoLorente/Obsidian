@@ -16,6 +16,7 @@
 - Mecanismo de propagación del cambio Garantiza la consistencia entre la interfaz de usuario y el modelo
 # Modelo
 Encapsula todos los datos y ofrece las operaciones para su acceso y procesamiento. Los controladores y las vistas acceden a las operaciones (API) del modelo.
+El modelo notifica (a vistas y a algunos controladores) sus cambios de estado (tipicamente mediante Observer)
 # Vistas
 #rellenar 
 # Controladores
