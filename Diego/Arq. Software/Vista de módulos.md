@@ -1,18 +1,33 @@
 # 28-01-2025
 Vista de módulos: La que describe estructuras que implementan el sistema (los dichos módulos) y las relaciones de los mismos
 
-Módulo: Unidad de implementación (parte del código fuente) que proporciona un conjunto coherente de responsabilidades. Funcionalidades y conocimiento que mantiene.
+Módulo: Unidad de implementación (parte del código fuente) que proporciona un conjunto coherente de responsabilidades, que definen las funcionalidades del módulo y qué conocimiento  mantiene.
 
 ### Principios del módulo:
 
-- Ocultación de la información -> Es necesario proporcionar la información al desarrollador para implementar responsabilidades del módulo, pero LIMITAR todo lo que sea extra a ello.
-- Acoplamiento -> Nos dice grado de interdependencia entre los módulos del sistema. Alto acoplamiento implica conexión estrecha y cambios en un módulo afectan a otros. Bajo acoplamiento, son independientes y cambios no afectan a otros módulos.
-- Tipos de acoplamiento: Control, Externo, Común, Contenido... descripciones en el pdf.
+- Ocultación de la información (Principios de Parnas) -> Es necesario proporcionar la información al desarrollador para implementar responsabilidades del módulo, pero LIMITAR todo lo que sea extra a ello.
+- Acoplamiento -> Nos dice grado de interdependencia entre los módulos del sistema.
+	- Alto acoplamiento implica conexión estrecha y cambios en un módulo afectan a otros. 
+	- Bajo acoplamiento, son independientes y cambios no afectan a otros módulos.
+	- Tipos de acoplamiento: 
+		- Control: Los módulos se pasan información de control.
+		- Externo: Los módulos dependen de módulos externos al proyecto
+		- Común: Los módulos comparten información (estructuras de datos globales)
+		- Contenido: Un módulo puede modificar la información de otro/s módulos
+		- etc.
 
 Acoplamiento de arquitectura es importante, nos interesa que sea bajo, mejora la mantenibilidad del sistema, facilita modularidad y pruebas, se pueden comprobar funcionalidades de forma aislada, y la escalabilidad ya que añadir nuevos módulos será más sencillo.
 
 - Cohesión -> Medida en la que los elementos dentro de un módulo trabajan juntos para un único propósito, fin común. 
-	Tipos de cohesión en pdf
+	- Alta cohesión -> Los elementos del módulo están estrechamente relacionados y consiguen un único propósito
+	- Baja cohesión -> Los elementos del módulo tienen poca relación entre sí y abordan múltiples propósitos
+	- Tipos de cohesión:
+		- Funcional: el módulo realiza una única tarea.
+		- Secuencial: existe un flujo de datos entre las distintas partes del módulo
+		- Temporal: todas las tareas del módulo se ejecutan en el mismo espacio de tiempo
+		- Comunicación: dos módulos operan con la misma entrada o contribuyen a producir la misma salida
+		- el módulo realiza tareas relacionadas lógicamente, no funcionalmente
+		- etc.
 
 Nos interesa que la cohesión sea alta, proporciona una mejor legibilidad para entender el código y mejora la fiabilidad.
 
@@ -50,7 +65,7 @@ Es lo que debemos documentar, sirven para implementación y también análisis d
 	- Internas: Solo empleadas por los hermanos, el padre no conoce estas
 	- Externas, relación con el padre, tienen encapsulación (padre proporciona interfaces y mapea peticiones a los hijos)
 - Información de implementación:
-	- PESE A NO PERTENECERÁ  LA ARQUITECTURA, ES UN BUEN SITIO PARA GUARDAR INFO SOBRE ESTA. Ejemplos:
+	- PESE A NO PERTENECER A LA ARQUITECTURA, ES UN BUEN SITIO PARA GUARDAR INFO SOBRE ESTA. Ejemplos:
 	- Lista de ficheros que forman parte
 	- Información para probar el módulo
 	- Restricciones de implementación / comunicación

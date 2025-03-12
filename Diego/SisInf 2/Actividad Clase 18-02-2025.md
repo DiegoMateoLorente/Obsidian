@@ -1,0 +1,16 @@
+# ¿Qué técnicas conocemos de modelado?
+- Esquema relacional
+- Esquema ER
+- Redes de Petri
+- D. de paquetes
+- D. de componentes
+- D. de actividad
+- D. de secuencia
+- D. de clases
+- Vista de CyC
+- Vista de módulos
+- Vista de distribución
+- Diagrama de casos de uso
+- Grafos
+- D. de comunicación
+- D. de despliegue
