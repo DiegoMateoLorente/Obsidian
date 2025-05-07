@@ -21,7 +21,7 @@ Un sistema seguro es aquel que incorpora medidas para protección de la informac
 ![[Arq. Software Principios de Diseño Fig1.png]]
 ## Principios SOLID
 ### Responsabilidad única
-![[Pasted image 20250219152100.png]]
+![[Pasted image 20250506011837.png]]
 CuentaBancaria ahí tiene varias responsabilidades.
 #### Consecuencias
 - Difícil de mantener (Cambios en la autenticación o en los reportes afectan el código relacionado con las transacciones)
@@ -94,7 +94,7 @@ Separa métodos que modifican el estado del sistema (commands) de aquellos que s
 - Bajo acoplamiento: evita dependencias innecesarias entre módulos
 ## Principios para código limpio y mantenible
 ### Tell, Don't Ask (TDA)
-Dile al objeto qué hacer en lugar de preguntar En lugar de recuperar datos de un objeto para operar sobre ellos en otro lugar, encapsula la lógica en el objeto mismo.
+Dile al objeto qué hacer en lugar de preguntar. En lugar de recuperar datos de un objeto para operar sobre ellos en otro lugar, encapsula la lógica en el objeto mismo.
 ### Single Level of Abstraction Principle
 Mantén cada método a un solo nivel de abstracción
 ![[Pasted image 20250219161138.png]]
