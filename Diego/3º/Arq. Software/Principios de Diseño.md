@@ -39,7 +39,7 @@ Cada vez que agregamos un nuevo método de pago, debemos modificar la clase Proc
 ![[Arq. Software Principios de Diseño Fig6.png]]
 El pingüino no puede volar.
 #### Consecuencias
-- Código fráagil, acoplamiento innecesario, dificultad de manener,dificultad de extensión, etc.
+- Código frágil, acoplamiento innecesario, dificultad de manener,dificultad de extensión, etc.
 #### Solución
 ![[Arq. Software Principios de Diseño Fig7.png]]
 Código más robusto, mayor mantenibilidad, más extendible, etc.
