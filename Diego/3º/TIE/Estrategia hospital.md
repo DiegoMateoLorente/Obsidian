@@ -1,0 +1,13 @@
+El objetivo principal que tiene la empresa es lograr una mayor captación de clientes que puedan acceder a los servicios que aporta el hospital, lo cual produce mayores ingresos. Para empezar, lo primero que se deberá hacer es estudiar la situación en la que se encuentra la empresa actualmente, analizando las tendencias de nuestros clientes en cuanto a los servicios que aportan. Todas las estadísticas pueden ser analizadasa mediante un BI que sea capaz de tratar los datos que se guardan en la BD y transformarlos en información de valor para tomar una decisión. Después, se realizaría un análisis exhaustivo de las competencias, analizando tanto su captación de clientes como su lógica de negocio. A partir de ahí, una solución óptima sería realizar una inversión grande en contratar buenas aseguradoras, que sean capaces de realizar una promoción del hospital para así redirigir a muchos pacientes al negocio. Un aspecto que también hace que un paciente pueda decantarse por nuestro negocio es la calidad de la plantilla de empleados de este. Por ello, se realizará una inversión mayor en recursos humanos. Por ello, tambíen será necesario la correcta adaptación de un sistema HCM que sea capaz de realizar una óptima gestión de los empleados. Por último, habría que incrementar las prestaciones en cuanto a calidad que pueda tener el material importado a través de los proveedores. Para ello, un sistema QMS sería la mejor opción, ya que puede realizar un exhaustivo análisis de calidad de los productos que llegan a través de los proveedores para asegurar la calidad necesaria para el uso óptimo que este material pueda tener en el cliente objetivo. A modo de resumen, el principal objetivo es captar la atención de los clientes a través de mejores aseguradoras, así como mantener una calidad adecuada tanto de la infraestructura (incluyendo los empleados) como del material empleado a diario en el hospital.
+
+
+
+Indicador 1: Porcentaje de aumento de clientes dados de alta desde que se hizo la estrategia en base a el número de clientes dados de alta en el mismo lapso de tiempo antes de la estrategia:
+Fórmula: (Número nuevos clientes post-estrategia/ Número clientes pre-estrategia) * 100
+Visualización : Un gráfico de puntos que pueda mostrar el aumento entre una tendencia de captación y otra en el paso del tiempo.
+
+Indicador 2: Inversión necesaria de material antes y después de aplicar la estrategia mayor del 20%
+Fórmula: (Inversión mensual) media durante los primeros 6 meses post-estrategia) /  (Inversión mensual media durante 6 meses pre-estrategia) * 100
+Visualización gráfico con una barra que muestre el porcentaje de aumento de la inversión, buscando que ese aumento sea mayor del 20%.
+
+Indicador 3: 
