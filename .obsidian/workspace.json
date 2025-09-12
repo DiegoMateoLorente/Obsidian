@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diego/4º/1º Cuatrimestre/Seguridad Informática/Introducción Práctica 1.md",
+                "file": "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Introducción a R (capturas R Studio).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introducción Práctica 1"
+              "title": "Introducción a R (capturas R Studio)"
             }
           }
         ]
@@ -180,18 +180,26 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2e3cfa109be48e6a",
+  "active": "51dbc66ff7d5b109",
   "lastOpenFiles": [
-    "Diego/4º/1º Cuatrimestre/Seguridad Informática/Fundamentos 1 - Triada CIA.md",
+    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20250912135014.png",
+    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20250912134720.png",
+    "Pasted image 20250912134547.png",
+    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Introducción a R (capturas R Studio).md",
+    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20250912134628.png",
+    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20250912134626.png",
+    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20250912134140.png",
+    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20250912133841.png",
+    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes",
+    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20250912132826.png",
+    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20250912132310.png",
+    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20250912131718.png",
+    "Diego/4º/1º Cuatrimestre/Diseño y Administración de Redes/Imagenes/Pasted image 20250912114321.png",
+    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos",
+    "Diego/4º/1º Cuatrimestre/Diseño y Administración de Redes/Tema 1 - Interconexión de redes IPv4.md",
+    "Diego/4º/1º Cuatrimestre/Diseño y Administración de Redes/Imagenes",
     "Diego/4º/1º Cuatrimestre/Seguridad Informática/Introducción Práctica 1.md",
-    "Diego/4º/1º Cuatrimestre/Seguridad Informática/Imagenes/Pasted image 20250909111520.png",
-    "Diego/4º/1º Cuatrimestre/Seguridad Informática/Imagenes/Pasted image 20250909111321.png",
-    "Diego/4º/1º Cuatrimestre/Seguridad Informática/Imagenes/Pasted image 20250909111059.png",
-    "Diego/4º/1º Cuatrimestre/Seguridad Informática/Imagenes/Pasted image 20250909104914.png",
-    "Diego/4º/1º Cuatrimestre/Seguridad Informática/Imagenes/Pasted image 20250909104801.png",
-    "Diego/4º/1º Cuatrimestre/Seguridad Informática/Imagenes/Pasted image 20250909104654.png",
-    "Diego/4º/1º Cuatrimestre/Seguridad Informática/Imagenes/Pasted image 20250909103514.png",
-    "Diego/4º/1º Cuatrimestre/Seguridad Informática/Imagenes/Pasted image 20250909102956.png",
+    "Diego/4º/1º Cuatrimestre/Seguridad Informática/Fundamentos 1 - Triada CIA.md",
     "Diego/4º/1º Cuatrimestre/Seguridad Informática/Imagenes",
     "Diego/4º/1º Cuatrimestre/Seguridad Informática",
     "Diego/4º/1º Cuatrimestre/Sistemas de Ayuda a la Toma de Decisiones",
@@ -205,15 +213,10 @@
     "Diego/Proyecto Software/Chuleta resumen Git.md",
     "Diego/4º/2º Cuatrimestre",
     "Diego/4º/Nueva carpeta",
-    "Diego/4º/1º Cuatrimestre",
-    "Diego/4º",
-    "Diego/Nueva carpeta",
-    "Diego/3º/TIE/Imagenes/TIE Caso2 (Análisis Objetivos Equipo deportivo) Fig1.png",
     "Diego/3º/TIE/TIE.md",
     "Diego/3º/TIE/La transformación de los mercados y el valor de la información.md",
     "Diego/3º/TIE/Introducción al Business Intelligence y la revolución digital.md",
     "Diego/3º/TIE/Estrategias y ventajas competitivas.md",
-    "Diego/3º/TIE/Caso4 (Mapa Procesos ElPozo).png",
     "Diego/3º/TIE/Caso3 (Parque de Atracciones).md",
     "Diego/3º/TIE/Caso2 (Análisis Objetivos Equipo deportivo).md",
     "Diego/3º/TIE/Caso1 (Análisis Ticket).md",
@@ -225,9 +228,6 @@
     "Diego/3º/Proyecto Software/Chuleta resumen Git.md",
     "Diego/3º/BD2/IBM AHORA BIEN.md",
     "Diego/3º/BD2/JPQL.md",
-    "Diego/3º/BD2/Técnicas de control de concurrencia multiversión.md",
-    "Diego/3º/BD2/Relacional P3 parte 2.md",
-    "Diego/3º/BD2/Problemas tabla tipada.md",
     "Untitled.canvas",
     "Diego/TIE/Untitled.canvas"
   ]
