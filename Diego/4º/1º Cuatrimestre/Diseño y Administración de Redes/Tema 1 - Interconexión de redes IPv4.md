@@ -109,4 +109,25 @@ Hay varias razones:
 ![[Pasted image 20250912114908.png]]
 ![[Pasted image 20250912114917.png]]
 ![[Pasted image 20250912114943.png]]
-	![[Pasted image 20250912114954.png]]
+![[Pasted image 20250912114954.png]]
+# Protocolos de encaminamiento
+Hay una serie de algoritmos que permiten calcular el camino óptimo y, por tanto, definir la interfaz de salida.
+Cuando el encaminamiento es dinámico y la topología de la red cambia, al tiempo que tardan los router en recalcular las rutas y actualizar las tablas de encaminamiento le llamamos "Tiempo de convergencia".
+Los protocolos consisten en propagar la información del encaminamiento y con la información recibida calcular el camino a cada destino. El hecho de que haya protocolos implicaría que todos los router del mundo tuvieran que usar el mismo (no es así). Por lo tanto, podemos utilizar Sistemas Autónomos (SA), donde los router que estén dentro usan el mismo protocolo de encaminamiento y los router que estén fuera pueden usar uno distinto.
+![[Pasted image 20250919104315.png]]
+La información de encaminamiento entre 2 AS oculta la info del encaminamiento interno, por lo que los caminos pueden no ser los óptimos. Por ello, existen acuerdos bilaterales para establecer caminos directos entre los AS (incluso se pueden poner puntos de interconexión neutros para unir más de 2 AS).
+![[Pasted image 20250919110421.png]]
+## Protocolo RIP
+Consiste en que cada x tiempo periódigo (30 segundos parece ser), el router manda info a todos sus vecino con su tabla completa (destino, coste), donde coste es el número de saltos hasta llegar al destino (el máximo es 16). Es ideal para redes pequeñas, pero es poco escalable
+![[Pasted image 20250919110839.png]]
+![[Pasted image 20250919111945.png]]
+Ejemplo:
+![[Pasted image 20250919111846.png]]
+![[Pasted image 20250919111904.png]]
+![[Pasted image 20250919111916.png]]
+![[Pasted image 20250919112004.png]]
+![[Pasted image 20250919112057.png]]
+![[Pasted image 20250919112109.png]]
+![[Pasted image 20250919112121.png]]
+## Protocolo OSPF
+No entra aparentemente. Se va a utilziar el otro en las practicas para capturar las tramas, osea que probablemente no sea de mucha importancia para el examen.
