@@ -11,10 +11,14 @@
             "id": "e5cbbacc9f5c3caf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Ejercicio ejemplo Ventas en Supermercado.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Ejercicio ejemplo Ventas en Supermercado"
             }
           }
         ]

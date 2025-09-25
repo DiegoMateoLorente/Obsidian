@@ -34,3 +34,9 @@ Importante: Además de identificar las dimensiones, también hay que identificar
 # 4. Identificar los hechos/métricas
 
 Cantidad comprada, Precio total
+
+
+
+
+# IMPORTANTE
+En los esquemas de Kimball, no se usan booleanos ni tampoco enteros (para simular booleanos), si no que se  crean tipos numerados (festivo, no festivo por ejemplo).
