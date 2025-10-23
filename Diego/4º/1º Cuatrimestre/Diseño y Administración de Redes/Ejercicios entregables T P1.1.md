@@ -1,0 +1,2 @@
+Al hacer un ping de un PC a otro, hay que calcular retardos. GNS3 está bien, pero en cuanto a tiempo de transmision no tiene capacidad.
+SI tenemos que hacer esto, tenemosq ue poner un esquema con ejes temporales para acada uno de los saltos

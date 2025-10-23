@@ -20,3 +20,26 @@
 ![[Pasted image 20250912134628.png]]
 ![[Pasted image 20250912135014.png]]
 **DETALLE**: He puesto un ejemplo del view con v para ver lo que se muestra con vectores. Con matrices se muestra como si fuera una matriz (como una tabla)
+
+# Segunda sesión de explicación R
+getwd(): Get Working Directory
+![[Pasted image 20251017130941.png]]
+![[Pasted image 20251017131158.png]]
+Aqui guardamos el fichero desde Moodle y lo cargamos en datos. Son 200 filas y 5 columnas. El fichero es de tipo frame. Las columnas son X, TV, radio, newspaper y sales. Las filas son los valores de cada columna.
+![[Pasted image 20251017131441.png]]
+![[Pasted image 20251017131739.png]]
+![[Pasted image 20251017131812.png]]
+Son 100 filas pero no cabe
+![[Pasted image 20251017131933.png]]
+R permite eliminar  columnas de esta forma
+![[Pasted image 20251017132056.png]]
+![[Pasted image 20251017132300.png]]
+![[Pasted image 20251017132341.png]]
+![[Pasted image 20251017132843.png]]
+File > New File > R Script crea un script de R. Se ejecuta en el boton Source
+![[Pasted image 20251017133337.png]]
+![[Pasted image 20251017133537.png]]
+![[Pasted image 20251017133647.png]]
+Ha multiplicado por 2 todos los numeros porque ninguno es 2 exactamente
+![[Pasted image 20251017133957.png]]
+CTRL+ Shift + C comenta lo que seleccionas

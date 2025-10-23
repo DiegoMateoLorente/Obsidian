@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a4c98ab2beceed76",
+        "id": "49505346dc7b825d",
         "type": "tabs",
         "children": [
           {
-            "id": "e5cbbacc9f5c3caf",
+            "id": "a1334e70d1f52274",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Diego/4º/Academia Inglés B2/01-10-2025/Homework.md",
-                "mode": "source",
-                "source": false
+                "file": "Diego/4º/1º Cuatrimestre/Diseño y Administración de Redes/Dibujo ejercicio entregable T P1.1.md"
               },
-              "icon": "lucide-file",
-              "title": "Homework"
+              "icon": "excalidraw-icon",
+              "title": "Dibujo ejercicio entregable T P1.1"
             }
           }
         ]
@@ -74,8 +72,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,10 +178,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e5cbbacc9f5c3caf",
+  "active": "a1334e70d1f52274",
   "lastOpenFiles": [
-    "Diego/4º/Academia Inglés B2/01-10-2025/Phrasal verbs & Idioms - Exercises V1.pdf",
+    "Diego/4º/1º Cuatrimestre/Diseño y Administración de Redes/Dibujo ejercicio entregable T P1.1.md",
+    "Diego/4º/1º Cuatrimestre/Diseño y Administración de Redes/Ejercicios entregables T P1.1.md",
+    "Untitled.base",
+    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20251017131933.png",
+    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Introducción a R (capturas R Studio).md",
+    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20251017133957.png",
+    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20251017133647.png",
+    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20251017133537.png",
+    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20251017133337.png",
+    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20251017132843.png",
+    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20251017132341.png",
+    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20251017132300.png",
+    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20251017132056.png",
+    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20251017131812.png",
     "Diego/4º/Academia Inglés B2/01-10-2025/Homework.md",
+    "Diego/4º/Academia Inglés B2/01-10-2025/Phrasal verbs & Idioms - Exercises V1.pdf",
     "Diego/4º/Academia Inglés B2/25-09-2025/Writing.md",
     "Diego/4º/Academia Inglés B2/01-10-2025",
     "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Ejercicio ejemplo Ventas en Supermercado.md",
@@ -192,7 +203,6 @@
     "Diego/4º/Academia Inglés B2/17-09-2025/List of 25 goals.md",
     "Diego/4º/Academia Inglés B2/17-09-2025/Writing.md",
     "Diego/4º/Academia Inglés B2/17-09-2025/Topic - Effort - Prepositions 1st Part B2.pdf",
-    "Diego/4º/Academia Inglés B2/Imagenes/Pasted image 20250923103443.png",
     "Diego/4º/1º Cuatrimestre/Inglés Técnico",
     "Diego/4º/Academia Inglés B2/17-09-2025/Grammar - Vocabulary.md",
     "Diego/4º/Academia Inglés B2/Imagenes",
@@ -202,17 +212,6 @@
     "Diego/4º/Academia Inglés B2/10-09-2025/Topic Aristotle.pdf",
     "Diego/4º/Academia Inglés B2/17-09-2025",
     "Diego/4º/Academia Inglés B2/10-09-2025",
-    "Diego/4º/Academia Inglés B2",
-    "Diego/4º/1º Cuatrimestre/Diseño y Administración de Redes/Imagenes/Pasted image 20250919112121.png",
-    "Diego/4º/1º Cuatrimestre/Diseño y Administración de Redes/Imagenes/Pasted image 20250919112109.png",
-    "Diego/4º/1º Cuatrimestre/Diseño y Administración de Redes/Imagenes/Pasted image 20250919112057.png",
-    "Diego/4º/1º Cuatrimestre/Diseño y Administración de Redes/Imagenes/Pasted image 20250919112004.png",
-    "Diego/4º/1º Cuatrimestre/Diseño y Administración de Redes/Imagenes/Pasted image 20250919111945.png",
-    "Diego/4º/1º Cuatrimestre/Diseño y Administración de Redes/Imagenes/Pasted image 20250919111916.png",
-    "Diego/4º/1º Cuatrimestre/Diseño y Administración de Redes/Imagenes/Pasted image 20250919111904.png",
-    "Diego/4º/1º Cuatrimestre/Diseño y Administración de Redes/Imagenes/Pasted image 20250919111846.png",
-    "Diego/4º/1º Cuatrimestre/Diseño y Administración de Redes/Imagenes/Pasted image 20250919111110.png",
-    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Introducción a R (capturas R Studio).md",
     "Diego/4º/1º Cuatrimestre/Sistemas Legados/Recordar.md",
     "Diego/4º/1º Cuatrimestre/Seguridad Informática/Fundamentos 2 - Vulnerabilidades, amenazas, controles, riesgo.md",
     "Diego/4º/1º Cuatrimestre/Seguridad Informática/Fundamentos 1 - Triada CIA.md",
@@ -226,8 +225,6 @@
     "Diego/3º/TIE/La transformación de los mercados y el valor de la información.md",
     "Diego/3º/TIE/Introducción al Business Intelligence y la revolución digital.md",
     "Diego/3º/TIE/Estrategias y ventajas competitivas.md",
-    "Diego/3º/TIE/Caso3 (Parque de Atracciones).md",
-    "Diego/3º/TIE/Caso2 (Análisis Objetivos Equipo deportivo).md",
     "Untitled.canvas",
     "Diego/TIE/Untitled.canvas"
   ]
