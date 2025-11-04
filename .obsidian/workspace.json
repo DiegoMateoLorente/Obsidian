@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "49505346dc7b825d",
+        "id": "1a7f7fb15e1eb149",
         "type": "tabs",
         "children": [
           {
-            "id": "a1334e70d1f52274",
+            "id": "0a618c7dad3d9dcb",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Diego/4º/1º Cuatrimestre/Diseño y Administración de Redes/Dibujo ejercicio entregable T P1.1.md"
+                "file": "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Introducción a R (capturas R Studio).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Dibujo ejercicio entregable T P1.1"
+              "icon": "lucide-file",
+              "title": "Introducción a R (capturas R Studio)"
             }
           }
         ]
@@ -178,13 +180,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a1334e70d1f52274",
+  "active": "0a618c7dad3d9dcb",
   "lastOpenFiles": [
+    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Ejercicio ejemplo Ventas en Supermercado.md",
+    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Ejercicio ejemplo Ventas en Supermercado.tex",
+    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Introducción a R (capturas R Studio).md",
+    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Introducción a R (capturas R Studio).tex",
+    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20250912131718.png",
     "Diego/4º/1º Cuatrimestre/Diseño y Administración de Redes/Dibujo ejercicio entregable T P1.1.md",
     "Diego/4º/1º Cuatrimestre/Diseño y Administración de Redes/Ejercicios entregables T P1.1.md",
     "Untitled.base",
     "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20251017131933.png",
-    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Introducción a R (capturas R Studio).md",
     "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20251017133957.png",
     "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20251017133647.png",
     "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20251017133537.png",
@@ -193,12 +199,10 @@
     "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20251017132341.png",
     "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20251017132300.png",
     "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20251017132056.png",
-    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20251017131812.png",
     "Diego/4º/Academia Inglés B2/01-10-2025/Homework.md",
     "Diego/4º/Academia Inglés B2/01-10-2025/Phrasal verbs & Idioms - Exercises V1.pdf",
     "Diego/4º/Academia Inglés B2/25-09-2025/Writing.md",
     "Diego/4º/Academia Inglés B2/01-10-2025",
-    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Ejercicio ejemplo Ventas en Supermercado.md",
     "Diego/4º/Academia Inglés B2/25-09-2025",
     "Diego/4º/Academia Inglés B2/17-09-2025/List of 25 goals.md",
     "Diego/4º/Academia Inglés B2/17-09-2025/Writing.md",
@@ -210,8 +214,6 @@
     "Diego/4º/1º Cuatrimestre/Seguridad Informática/Introducción Práctica 1.md",
     "Diego/4º/Academia Inglés B2/10-09-2025/Writing about happiness.md",
     "Diego/4º/Academia Inglés B2/10-09-2025/Topic Aristotle.pdf",
-    "Diego/4º/Academia Inglés B2/17-09-2025",
-    "Diego/4º/Academia Inglés B2/10-09-2025",
     "Diego/4º/1º Cuatrimestre/Sistemas Legados/Recordar.md",
     "Diego/4º/1º Cuatrimestre/Seguridad Informática/Fundamentos 2 - Vulnerabilidades, amenazas, controles, riesgo.md",
     "Diego/4º/1º Cuatrimestre/Seguridad Informática/Fundamentos 1 - Triada CIA.md",
