@@ -4,24 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "1a7f7fb15e1eb149",
+        "id": "5e34a1d9ba619efc",
         "type": "tabs",
         "children": [
           {
-            "id": "0a618c7dad3d9dcb",
+            "id": "47d8745bad176eca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diego/4º/Academia Inglés B2/17-09-2025/Grammar - Vocabulary.md",
+                "file": "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Métodos lineales - regresión logística.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grammar - Vocabulary"
+              "title": "Métodos lineales - regresión logística"
+            }
+          },
+          {
+            "id": "8ce09efcb199b7fa",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Diego/4º/1º Cuatrimestre/Seguridad Informática/Ejercicios P2/Marco de Pila ejercicio 17-11-2025.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Marco de Pila ejercicio 17-11-2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,37 +193,43 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "51dbc66ff7d5b109",
+  "active": "8ce09efcb199b7fa",
   "lastOpenFiles": [
+    "Diego/4º/1º Cuatrimestre/Seguridad Informática/Ejercicios P2/Marco de Pila ejercicio 17-11-2025.md",
+    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Métodos lineales - regresión logística.md",
+    "Diego/4º/1º Cuatrimestre/Seguridad Informática/Ejercicios P2",
+    "Pasted image 20251114130634.png",
+    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Métodos lineales - regresión lineal.md",
+    "Pasted image 20251113123628.png",
+    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Introducción a R (capturas R Studio).md",
+    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20251106133959.png",
+    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20251106134145.png",
+    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20251107131023.png",
+    "Diego/4º/Academia Inglés B2/05-11-2025/Writting my reading history.md",
+    "Diego/4º/Academia Inglés B2/29-10-2025/Linking Words for Compositions.pdf",
+    "Diego/4º/Academia Inglés B2/29-10-2025/Writing West East.md",
+    "Diego/4º/Academia Inglés B2/05-11-2025",
+    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20251106131534.png",
+    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20251106133734.png",
+    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20251106133947.png",
+    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20251106133954.png",
+    "Diego/4º/Academia Inglés B2/29-10-2025/Writing report about facilities.md",
+    "Diego/4º/Academia Inglés B2/29-10-2025/Examples of introductions and conclusions for compositions.pdf",
+    "Diego/4º/Academia Inglés B2/29-10-2025/Compositions - Descriptions.pdf",
+    "Diego/4º/Academia Inglés B2/17-09-2025/Grammar - Vocabulary.md",
     "Diego/4º/Academia Inglés B2/17-09-2025/List of 25 goals.md",
     "Diego/4º/Academia Inglés B2/17-09-2025/Topic - Effort - Prepositions 1st Part B2.pdf",
     "Diego/4º/Academia Inglés B2/17-09-2025/Imagenes/Pasted image 20250923103443.png",
     "Diego/4º/Academia Inglés B2/01-10-2025/Phrasal verbs & Idioms - Exercises V1.pdf",
-    "Diego/4º/Academia Inglés B2/29-10-2025/Examples of introductions and conclusions for compositions.pdf",
-    "Diego/4º/Academia Inglés B2/29-10-2025/Compositions - Descriptions.pdf",
-    "Diego/4º/Academia Inglés B2/29-10-2025/Linking Words for Compositions.pdf",
     "Diego/4º/Academia Inglés B2/29-10-2025",
-    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Introducción a R (capturas R Studio).md",
     "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Ejercicio ejemplo Ventas en Supermercado.md",
     "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Ejercicio ejemplo Ventas en Supermercado.tex",
     "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Introducción a R (capturas R Studio).tex",
-    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20250912131718.png",
     "Diego/4º/1º Cuatrimestre/Diseño y Administración de Redes/Dibujo ejercicio entregable T P1.1.md",
     "Diego/4º/1º Cuatrimestre/Diseño y Administración de Redes/Ejercicios entregables T P1.1.md",
-    "Untitled.base",
-    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20251017131933.png",
-    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20251017133957.png",
-    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20251017133647.png",
-    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20251017133537.png",
-    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20251017133337.png",
-    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20251017132843.png",
-    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20251017132341.png",
-    "Diego/4º/1º Cuatrimestre/Almacenes y Mineria de Datos/Imagenes/Pasted image 20251017132300.png",
     "Diego/4º/Academia Inglés B2/01-10-2025/Homework.md",
     "Diego/4º/Academia Inglés B2/25-09-2025/Writing.md",
-    "Diego/4º/Academia Inglés B2/01-10-2025",
     "Diego/4º/Academia Inglés B2/17-09-2025/Writing.md",
-    "Diego/4º/Academia Inglés B2/17-09-2025/Grammar - Vocabulary.md",
     "Diego/4º/1º Cuatrimestre/Diseño y Administración de Redes/Tema 1 - Interconexión de redes IPv4.md",
     "Diego/4º/1º Cuatrimestre/Seguridad Informática/Introducción Práctica 1.md",
     "Diego/4º/Academia Inglés B2/10-09-2025/Writing about happiness.md",
@@ -222,11 +241,6 @@
     "Diego/3º/Arq. Software/Antipatrones.md",
     "Diego/3º/Arq. Software/Cliente-Servidor.md",
     "Diego/3º/Arq. Software/Microkernel.md",
-    "Diego/Proyecto Software/Chuleta resumen Git.md",
-    "Diego/3º/TIE/TIE.md",
-    "Diego/3º/TIE/La transformación de los mercados y el valor de la información.md",
-    "Diego/3º/TIE/Introducción al Business Intelligence y la revolución digital.md",
-    "Diego/3º/TIE/Estrategias y ventajas competitivas.md",
     "Untitled.canvas",
     "Diego/TIE/Untitled.canvas"
   ]
